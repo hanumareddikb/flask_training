@@ -38,3 +38,4 @@ class PeopleModel:
             'city': self._city
         }
     # git practice
+    # stash
