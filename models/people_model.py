@@ -37,3 +37,5 @@ class PeopleModel:
             'age': self._age,
             'city': self._city
         }
+    # git practice
+    # stash
