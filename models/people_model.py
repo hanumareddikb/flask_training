@@ -40,6 +40,4 @@ class PeopleModel:
     # git practice
     # stash
 
-    # master branch
-
     # reddi branch
